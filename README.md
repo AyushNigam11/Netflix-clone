@@ -1,5 +1,5 @@
 <div align='center'>
-
+<h1>Deployable repo is shifted under the name Netflix-clone-2 </h1>
 <h1>Streamify - MERN Stack Netflix Clone</h1>
 <p>Welcome to Streamify, a full-stack web application built with the MERN stack (MongoDB, Express.js, React, Node.js). This project aims to recreate the popular streaming service Netflix, providing users with a seamless and responsive streaming experience. Features User Authentication: Secure user registration and authentication system to personalize the streaming experience. Dynamic Content: Fetch and display a wide range of movies and TV shows dynamically from a MongoDB database. Search and Filter: Easily find your favorite content using the search and filter functionalities. User Profiles: Customize your profile, keep track of your watch history, and save favorites for later. Responsive Design: Enjoy a seamless streaming experience on various devices with a responsive and user-friendly design. Technologies Used MongoDB: NoSQL database for efficient and scalable data storage. Express.js: Backend framework to handle server-side logic and API endpoints. React: Frontend library for building dynamic and interactive user interfaces. Node.js: Server-side runtime environment to run the application. Bootstrap: Frontend styling for a clean and modern UI.</p>
 
