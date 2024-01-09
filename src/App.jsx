@@ -12,6 +12,7 @@ function App() {
         <Route exact path="/signup" element={<Signup/>}  />
         <Route exact path="/" element={<Netflix/>}  />
       </Routes>
+      
     </BrowserRouter>
   );
 }
